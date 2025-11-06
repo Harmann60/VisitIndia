@@ -106,7 +106,7 @@ Visit `http://localhost:5173` (or as shown in your terminal).
 | -------------   | -------------------- |
 | Harman Jassal   | Developer & Designer
 |Jalaj Maheshwari | Backend Developer    |
-||Gauri Gautam     | Documentation        |
+| Gauri Gautam     | Documentation        |
 
 ---
 
