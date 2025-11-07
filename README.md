@@ -1,4 +1,4 @@
-# 🇮🇳 Visit India – Explore the Incredible Land of Diversity
+# 🇮🇳 Discover India – Explore the Incredible Land of Diversity
 
 A modern and visually engaging tourism website inspired by **Visit Singapore**, designed to showcase the rich culture, heritage, destinations, and cuisines of India.
 
